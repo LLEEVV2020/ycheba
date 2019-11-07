@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAB3/wAAAA/wAK3/IA/wAeAAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERAAAARFEREREERABERQ0Q0EREAERJEREQhEQAiIiREQiIiAAIiJCJCIiAAACIkIkIiAAAAARERERAAAAAFEREVVVAAAFFVERFREQAAUVERFRERAABRUREVERAAAAVVURUQAAAAAiIiIiIgAAACIiIiAAAAAAAiIiIAAADgHwAAAAMAAAADAAAAAwAAAAMAAIAHAADADwAA4B8AAOAHAADAAwAAwAMAAMAHAADgHwAA4AcAAOA/AADwPwAA" rel="icon" type="image/x-icon" />
+    <title>10 пример</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    
+    <div id="app">
+      <input type="text" @input="inpuValue = $event.target.value" :value="inpuValue">
+     <input type="text" v-model="inpuValue" >
+     <input type="text" v-model.lazy="inpuValue" >
+      
+      <h2>{{ inpuValue }}</h2>
+
+    </div>
+
+    <script src="https://unpkg.com/vue"></script>
+    <script src="main.js"></script>  
+</body>
+</html>

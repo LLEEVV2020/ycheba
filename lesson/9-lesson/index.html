@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAB3/wAAAA/wAK3/IA/wAeAAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARERERAAAARFEREREERABERQ0Q0EREAERJEREQhEQAiIiREQiIiAAIiJCJCIiAAACIkIkIiAAAAARERERAAAAAFEREVVVAAAFFVERFREQAAUVERFRERAABRUREVERAAAAVVURUQAAAAAiIiIiIgAAACIiIiAAAAAAAiIiIAAADgHwAAAAMAAAADAAAAAwAAAAMAAIAHAADADwAA4B8AAOAHAADAAwAAwAMAAMAHAADgHwAA4AcAAOA/AADwPwAA" rel="icon" type="image/x-icon" />
+    <title>8 пример</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    
+    <div id="app">
+
+      <h2> 
+        <a href="http://copy.css-world.ru" v-on:click="clickOnGoogle" target="_blank">мужик</a>
+      </h2>
+      
+      <h2> 
+        <a href="http://copy.css-world.ru" v-on:click.prevent="" target="_blank">Тоже самое что и выше, 
+        то только на модификаторе prevent</a>
+      </h2>
+
+      <h2 v-on:mousemove="handleMouseMove"> 
+        X: {{ x }} \ Y: {{ y }}
+        <span v-on:mousemove.stop="">нке изменять</span>
+      </h2>
+
+      <hr>
+
+      <input type="text" v-on:keyup="alertValue"><br><br>
+      <input type="text" v-on:keyup.enter.space="alertValue2">
+
+    </div>
+
+    <script src="https://unpkg.com/vue"></script>
+    <script src="main.js"></script>  
+</body>
+</html>
