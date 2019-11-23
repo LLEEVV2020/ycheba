@@ -15,7 +15,11 @@
 14 урок. Управление отображением элементов.
 15 урок. Директива v-show vs v-if  (первая просто скрывает элемент, вторая удаляет)
 16 урок. Работа со списками.  v-for
+17 урок. Оптимизация computed
+18 урок. Отслеживание изменений с watch
 
 
 
-https://www.youtube.com/watch?v=TNjZ4vPc_1M&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=17
+
+
+https://www.youtube.com/watch?v=l4b3ctgMPaQ&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=18
