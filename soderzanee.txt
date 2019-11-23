@@ -13,7 +13,9 @@
   Стрелочкой указал особеннсть http://prntscr.com/pt4642
 13 урок. Динамические стили
 14 урок. Управление отображением элементов.
+15 урок. Директива v-show vs v-if  (первая просто скрывает элемент, вторая удаляет)
+16 урок. Работа со списками.  v-for
 
 
 
-https://www.youtube.com/watch?v=6wrLM2RcupE&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=15
+https://www.youtube.com/watch?v=TNjZ4vPc_1M&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=17
