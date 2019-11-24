@@ -1,0 +1,20 @@
+1. скачать
+https://github.com/vuejs/vue-cli
+git clone https://github.com/vuejs/vue-cli.git 
+
+2. Установить
+npm install -g vue-cli
+
+3. Инициализиовать и создать объект
+Например: vue init webpack my-proj
+vue init webpack-simple my-proj
+Всего существует :
+webpack 
+webpack-simple
+pwa
+simple
+
+4. После выбора webpack-simple вбиваем
+cd my-proj
+     npm install
+     npm run dev

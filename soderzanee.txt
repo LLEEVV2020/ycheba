@@ -17,9 +17,13 @@
 16 урок. Работа со списками.  v-for
 17 урок. Оптимизация computed
 18 урок. Отслеживание изменений с watch
+19 урок. Связывание разных приложений. Инстанс vue
+20 урок. Доступ к DOM элементам
+21 урок. Свойство template
+22 урок. Жизненный цикл
+24 урок. Установка VUE-CLI 
 
 
 
 
-
-https://www.youtube.com/watch?v=l4b3ctgMPaQ&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=18
+https://www.youtube.com/watch?v=sI1dX5aG57Q&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=21
