@@ -35,7 +35,7 @@
 39 урок. Передача HTML компоненту Тег slot 
 40 урок. Создание своей директивы
 42 урок. Жизненный цикл директивы
-
+45 урок. Модификаторы
 
 
 https://www.youtube.com/watch?v=FeNycYNzxf4&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=45

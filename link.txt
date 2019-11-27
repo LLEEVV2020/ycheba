@@ -1,6 +1,9 @@
 https://webdevblog.ru/nuxt-js-minimalistichnyj-frejmvork-dlya-sozdaniya-universalnyh-prilozhenij-vue-js/
 
 https://github.com/sitepoint-editors/nuxt-ssr-blog/
+https://github.com/vuejs/vue-next
+
+
 
 vue-cli добавить next
 HTML и статические ресурсы
