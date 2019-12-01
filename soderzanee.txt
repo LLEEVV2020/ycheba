@@ -39,10 +39,30 @@
 47 урок. Создание простых фильтров VUE JS
 48 урок. Фильтрация списков VUE JS
 49 урок. Использование миксинов VUE JS
+50 урок. Текстовый инпут VUE JS
+51 урок. Текстарея VUE JS
+52 урок. Чекбоксы VUE JS
+54 урок. Селекты VUE JS
+56 урок. Создание своего контрола VUE JS
+58 урок. Настройка валидаторов VUE JS
+60 урок. Валидация пароля VUE JS
+61 урок. Создание своего валидатора VUE JS
+62 урок. Отправка формы VUE JS
+63 урок. Установка vue-router VUE JS
+69 урок. Вложенные роуты VUE JS
+70 урок. Передача параметров VUE JS
+71 урок. Хэш и скролл VUE JS
+	#это-хэш
+72 урок. Редирект VUE JS
+73 урок. Защита роутов VUE JS
+74 урок. Ленивая загрузка VUE JS
+75 урок. Работа с сервером с vue-resource VUE JS
+	можно подключить джигври и использовать аякс
+	или подключить эксиос
+
+npm install vue-resource
+
+https://www.youtube.com/watch?v=wWPfu-cOvMM&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=81
 
 
-[vue/require-v-for-key]
-Elements in iteration expect to have 'v-bind:key' directives.
-
-
-https://www.youtube.com/watch?v=FeNycYNzxf4&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=45
+https://coursehunter.net/course/freymvork-vue-js-polnoe-rukovodstvo-dlya-sovremennoy-veb-razrabotki

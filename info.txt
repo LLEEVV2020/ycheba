@@ -18,3 +18,12 @@ simple
 cd my-proj
      npm install
      npm run dev
+
+:key="car"
+
+5. Установить сервер json server
+https://github.com/typicode/json-server
+https://github.com/pagekit/vue-resource
+npm install -g json-server
+npm install --save-dev json-server 
+npm run server

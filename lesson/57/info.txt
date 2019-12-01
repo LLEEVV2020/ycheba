@@ -1,0 +1,9 @@
+bootstrap 
+https://getbootstrap.com/docs/4.4/getting-started/download/
+
+vuelidate
+https://vuelidate.js.org/#sub-installation
+npm install vuelidate --save
+
+1. переходим в "main.js"
+

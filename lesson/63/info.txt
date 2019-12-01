@@ -1,0 +1,15 @@
+https://router.vuejs.org/ru/
+
+npm install vue-router --save
+
+
+
+
+
+
+
+
+
+
+
+
