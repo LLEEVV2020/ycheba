@@ -64,7 +64,7 @@
 
 npm install vue-resource
 
-https://www.youtube.com/watch?v=wWPfu-cOvMM&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=81
+https://www.youtube.com/watch?v=OpD74JEQrHU&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel&index=30
 
 
 https://coursehunter.net/course/freymvork-vue-js-polnoe-rukovodstvo-dlya-sovremennoy-veb-razrabotki
