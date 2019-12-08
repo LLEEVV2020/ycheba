@@ -36,3 +36,7 @@ https://ru.stackoverflow.com/questions/692384/Пустой-массив-post-в-php-при-запро
 npm install --save axios vue-axios
 http://blog.vuejoy.com/4-axios/
 https://github.com/jpfong/vue-tutorial-axios
+
+8. forms job
+https://ru.vuejs.org/v2/guide/forms.html
+https://riptutorial.com/ru/ebook/vue-js
