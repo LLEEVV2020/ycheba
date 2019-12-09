@@ -33,7 +33,7 @@ npm i vuex --save
 
 7.Благодаря этому решению смог разобраться как отправлять данные на сервер
 https://ru.stackoverflow.com/questions/692384/Пустой-массив-post-в-php-при-запросе-axios-post
-npm install --save axios vue-axios
+npm install --save axios vue-axios vue-resource vue-router vuelidate vuex
 http://blog.vuejoy.com/4-axios/
 https://github.com/jpfong/vue-tutorial-axios
 
