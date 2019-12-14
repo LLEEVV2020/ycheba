@@ -20,6 +20,7 @@ cd my-proj
      npm run dev
 
 :key="car"
+<li v-for="(item, index) in items" :key="index">
 
 5. Установить сервер json server
 https://github.com/typicode/json-server
